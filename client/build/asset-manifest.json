@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.70d1d5e1.css",
-    "main.js": "/static/js/main.d9b62cf7.js",
+    "main.js": "/static/js/main.8ab197ee.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/oselabs_logo.png": "/static/media/oselabs_logo.bc6bdecb6ad27530510d.png",
+    "static/media/oselabs_logo.png": "/static/media/oselabs_logo.1caa052df2834edcb4fa.png",
     "index.html": "/index.html",
     "main.70d1d5e1.css.map": "/static/css/main.70d1d5e1.css.map",
-    "main.d9b62cf7.js.map": "/static/js/main.d9b62cf7.js.map",
+    "main.8ab197ee.js.map": "/static/js/main.8ab197ee.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70d1d5e1.css",
-    "static/js/main.d9b62cf7.js"
+    "static/js/main.8ab197ee.js"
   ]
 }
